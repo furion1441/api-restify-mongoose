@@ -1,0 +1,4 @@
+{
+	"dbPath": "mongodb://localhost/Tododb",
+	"port": 3000
+}
