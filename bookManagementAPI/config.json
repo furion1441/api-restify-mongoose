@@ -1,0 +1,4 @@
+{
+	"dbPath": "mongodb://localhost/BookDb",
+	"port": 3000
+}
